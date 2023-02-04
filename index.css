@@ -1,0 +1,63 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(41, 41, 41);
+}
+
+.Español{
+
+    color:#fff;
+    text-align: center;
+
+    background-color: rgb(32, 32, 32);
+}
+
+.Rumano{
+
+    color:#fff;
+    text-align: center;
+    margin-top: 0.5cm;
+    background-color: rgb(32, 32, 32);
+}
+
+.preguntas{
+
+    background-color: rgb(32, 32, 32);
+    margin-left: 4cm;
+    margin-right: 4cm;
+    margin-top: 5cm;
+    border-radius: 15px;
+
+}
+
+.ruma{
+
+    height: 90px;
+    width: auto;
+    position: absolute;
+    margin-left: 6cm;
+    margin-top: 1cm;
+    border-radius: 10px;
+    border: 1px solid #181818;
+
+}
+
+
+.esp{
+
+    height: 90px;
+    width: auto;
+    position: absolute;
+    margin-left: 25cm;
+    margin-top: 1cm;
+    border-radius: 10px;
+    border: 1px solid #181818;
+
+}
+
+.betania{
+
+    position: absolute;
+    margin-top: -2cm;
+    margin-left: 15cm;
+    color: rgb(255, 255, 255);
+}
